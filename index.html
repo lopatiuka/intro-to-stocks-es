@@ -470,6 +470,15 @@
            }
        });
    </script>
+   <script>
+        $(".round-button").each( function() {
+            $(this).click(function() { 
+                $('html, body').animate({
+                    scrollTop: $("#form").offset().top
+                }, 1000); 
+            });
+        })
+    </script>
     <script>
         $("#register-link").click(function() { 
             $('html, body').animate({
