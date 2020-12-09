@@ -402,7 +402,7 @@ header .container .navigation a:hover p {
 }
 .intro .container .content .form {
   width: 425px;
-  height: 649px;
+  height: auto;
   background-color: white;
   margin-left: 40px;
   box-shadow: 0px 4px 35px rgba(0, 0, 255, 0.15);
@@ -473,6 +473,7 @@ header .container .navigation a:hover p {
   height: 61px;
   border-radius: 31px;
   margin-top: 15px;
+  margin-bottom: 30px;
   border: none;
   background-color: #0000FF;
   color: white;
@@ -791,6 +792,7 @@ header .container .navigation a:hover p {
   color: #151E62;
   margin-bottom: 5px;
   margin-left: 20px;
+  text-transform: uppercase;
 }
 .about .chapters ul li .chapter-subheader {
   font-weight: normal;
@@ -1182,7 +1184,7 @@ footer .bottom-links-container .bottom-links .links a:hover {
 footer .bottom-links-container .bottom-links .rights {
   font-size: 15px;
   line-height: 22px;
-  text-align: right;
+  text-align: left;
   color: #151E62;
 }
 footer .bottom-links-container .bottom-links .rights a {
