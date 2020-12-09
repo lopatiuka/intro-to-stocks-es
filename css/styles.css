@@ -813,13 +813,13 @@ header .container .navigation a:hover p {
   font-weight: 600;
 }
 .about .chapters ul li:nth-child(1) .content {
-  background-image: url("../images/Thumbnail Chapter 1.png");
+  background-image: url("../images/ES_Intro-to-stocks.png");
 }
 .about .chapters ul li:nth-child(2) .content {
-  background-image: url("../images/Thumbnail Chapter 2.png");
+  background-image: url("../images/ES_How-to-choose-your-stocks.png");
 }
 .about .chapters ul li:nth-child(3) .content {
-  background-image: url("../images/Thumbnail Chapter 3.png");
+  background-image: url("../images/ES_How-to-trade-stocks.png");
 }
 .about .chapters ul li:nth-child(4) .content {
   background-image: url("../images/ebook.png");
