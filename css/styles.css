@@ -823,8 +823,7 @@ header .container .navigation a:hover p {
 }
 .about .chapters ul li:nth-child(4) .content {
   background-image: url("../images/esp.png");
-  background-position: 0 15%;
-  background-size: 100%;
+  background-size: 100% 100%;
 }
 .about a {
   display: flex;
